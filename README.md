@@ -131,6 +131,10 @@ python3 enhanced_security_header_checker.py <url> --output-file output.txt
 
 Checks for the presence and configuration of a set of predefined security headers in a given URL.
 
+** images**  ![image](https://github.com/user-attachments/assets/01b958d5-1feb-45c4-8278-b462c1948635)
+
+
+
 **Usage:**
 
 ```bash
